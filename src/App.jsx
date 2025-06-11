@@ -5,8 +5,13 @@ function App() {
  
   return (
     <>
-     <h1>Hola mundo</h1>
+    <main className='container my-5'>
+     <h1 className='text-center'>Lista de tareas</h1>
      <FormularioTarea></FormularioTarea>
+    </main>
+    <footer className='bg-dark text-light text-center py-4'>
+      <p>Todos los derechos reservados</p>
+    </footer>
     </>
   )
 }
