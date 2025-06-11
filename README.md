@@ -24,7 +24,7 @@
 
 1. **Clona el repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/lista-tareas-react.git
+   git clone https://github.com/rollingcodeschool/listaTareas-c12
    cd lista-tareas-react
    ```
 
