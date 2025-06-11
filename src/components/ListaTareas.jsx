@@ -3,7 +3,7 @@ import ItemTarea from "./ItemTarea";
 
 const ListaTareas = () => {
   return (
-    <ListGroup>
+    <ListGroup className="mt-3">
      <ItemTarea></ItemTarea>
     </ListGroup>
   );
